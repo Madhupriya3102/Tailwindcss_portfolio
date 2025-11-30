@@ -44,9 +44,6 @@ Improving frontend design skills
 
 Clone the repository 
 
-git clone <your-repo-link>
+git clone: 
 
 
-Open index.html in your browser
-
-Customize the design as needed
