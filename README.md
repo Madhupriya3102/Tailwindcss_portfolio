@@ -44,6 +44,5 @@ Improving frontend design skills
 
 Clone the repository 
 
-git clone: 
-
+git clone: "https://madhupriya3102.github.io/Tailwindcss_portfolio/"
 
